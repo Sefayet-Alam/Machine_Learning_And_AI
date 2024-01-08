@@ -1,6 +1,7 @@
 Course link:
 
- https://jovian.com/learn/data-analysis-with-python-zero-to-pandas 
+1. https://jovian.com/learn/data-analysis-with-python-zero-to-pandas 
+2. https://jovian.com/learn/machine-learning-with-python-zero-to-gbms
 
 Other youtube channel links:
 
